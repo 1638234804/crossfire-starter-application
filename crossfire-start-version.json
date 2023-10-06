@@ -1,11 +1,11 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "notes": "init version",
-  "pub_date": "2023-09-30T23:24:57Z",
+  "pub_date": "2023-10-06T23:24:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURnE3RldlMnV3SVdzNFp3ZlZCejBRdVNRdnhRSUxiSHJxcXBiMmtkTkV5akZsYzlPYzFjK25VRmZtV0NYcFFNY3hFU2RRWk9nU3YvYUVpd0I1NFlGdW9ueGdRUFNObUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2NTk0MzYyCWZpbGU6Q3Jvc3NmaXJl5ZCv5Yqo5ZmoXzAuMC4xX3g2NF96aC1DTi5tc2kuemlwClNTN0crWE9CN1UvQmc2SG1tOEF1eEIyUXk1cmRGQ0pVbUs4NitTVkNXcmxTSkFhK0ZJREdyanM3SE1LNm8wdFo2S1ZkczFMMlFLRzY1aURKOGZVaUNRPT0K",
+      "url": "https://github.com/1638234804/crossfire-starter-application/files/12831235/Crossfire._0.0.1_x64_zh-CN.msi.zip"
     }
   }
 }
